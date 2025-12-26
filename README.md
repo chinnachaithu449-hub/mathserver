@@ -29,6 +29,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 # PROGRAM :
+~~~
 mohamed.html
 <!DOCTYPE html>
 <html>
@@ -141,3 +142,4 @@ urlpatterns = [
 
 
 The program for performing server side processing is completed successfully.
+~~~
