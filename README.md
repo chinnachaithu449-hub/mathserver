@@ -143,3 +143,8 @@ urlpatterns = [
 
 The program for performing server side processing is completed successfully.
 ~~~
+output:
+<img width="1043" height="663" alt="image" src="https://github.com/user-attachments/assets/a61004b6-bc69-4b5a-8899-d0349284ea77" />
+<img width="1042" height="476" alt="image" src="https://github.com/user-attachments/assets/da69cbd9-54fc-4422-8ef2-9cfe7e047048" />
+Result:
+The program for performing server side processing is completed successfully.
